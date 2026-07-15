@@ -1,5 +1,3 @@
-# SpankyVRC verified PlayFab user IDs — one per line.
-# Lines starting with # are ignored.
 
 DC1C81717296B574
 F258D9A1ED002746
