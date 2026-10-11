@@ -1,12 +1,12 @@
 {
   "pages": [
-    { "id": "Steam", "label": "Steam", "description": "Steam friends list, profiles, and rich presence." },
-    { "id": "Room History", "label": "Room History", "description": "Track rooms you join and hop back into them." },
-    { "id": "Double Hats", "label": "Double Hats", "description": "Wear two hats at once." },
-    { "id": "Discord", "label": "Discord", "description": "Discord presence and links." },
-    { "id": "Chat", "label": "Chat", "description": "Quick chat messages." },
-    { "id": "Console", "label": "Console", "description": "Command console for SpankyVRC." },
-    { "id": "Spawn", "label": "Spawn", "description": "Teleport to spawn points." },
-    { "id": "Plugins", "label": "Plugins", "description": "Manage SpankyVRC plugins." }
+    { "id": "Steam", "label": "Steam", "description": "Steam friends list, profiles, and rich presence" },
+    { "id": "Room History", "label": "Room History", "description": "Track rooms you have joined" },
+    { "id": "Double Hats", "label": "Double Hats", "description": "New 2026 double hats method" },
+    { "id": "Discord", "label": "Discord", "description": "Discord live chats" },
+    { "id": "Chat", "label": "Chat", "description": "In room chat with other players using SpankyUI." },
+    { "id": "Console", "label": "Console", "description": "Console that lets you do far beyond what the ui can do" },
+    { "id": "Spawn", "label": "Spawn", "description": "Set you spwan location when you start up the game and travel to the maps you want" },
+    { "id": "Plugins", "label": "Plugins", "description": "List of mods in your plugins folder" }
   ]
 }
