@@ -3,10 +3,10 @@
     { "id": "Steam", "label": "Steam", "description": "Steam friends list, profiles, and rich presence" },
     { "id": "Room History", "label": "Room History", "description": "Track rooms you have joined" },
     { "id": "Double Hats", "label": "Double Hats", "description": "New 2026 double hats method" },
-    { "id": "Discord", "label": "Discord", "description": "Discord live chats" },
     { "id": "Chat", "label": "Chat", "description": "In room chat with other players using SpankyUI." },
     { "id": "Console", "label": "Console", "description": "Console that lets you do far beyond what the ui can do" },
     { "id": "Spawn", "label": "Spawn", "description": "Set you spwan location when you start up the game and travel to the maps you want" },
     { "id": "Plugins", "label": "Plugins", "description": "List of mods in your plugins folder" }
+    { "id": "Dev Guide", "label": "Dev Guide", "description": "For developers for making custom pages on SpankyVRC for you to use" }
   ]
 }
