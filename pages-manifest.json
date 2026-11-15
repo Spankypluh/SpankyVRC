@@ -10,12 +10,4 @@
     { "id": "Plugins",        "label": "Plugins",        "kind": "builtin", "description": "List of mods in your plugins folder." },
     { "id": "Dev Guide",      "label": "Dev Guide",      "kind": "builtin", "description": "For developers making custom pages on SpankyVRC." },
 
-    { "id": "Quick Links",    "label": "Quick Links",    "kind": "external",
-      "description": "Handy links for Gorilla Tag and SpankyVRC.",
-      "url": "https://raw.githubusercontent.com/Spankypluh/SpankyVRC/refs/heads/main/pages/Quick%20Links.json" },
-
-    { "id": "Example Page",   "label": "Example Page",   "kind": "external",
-      "description": "Every row type a downloaded page can use.",
-      "url": "https://raw.githubusercontent.com/Spankypluh/SpankyVRC/refs/heads/main/pages/Example%20Page.json" }
-  ]
 }
