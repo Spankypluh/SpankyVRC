@@ -1,12 +1,21 @@
 {
   "pages": [
-    { "id": "Steam", "label": "Steam", "description": "Steam friends list, profiles, and rich presence" },
-    { "id": "Room History", "label": "Room History", "description": "Track rooms you have joined" },
-    { "id": "Double Hats", "label": "Double Hats", "description": "New 2026 double hats method" },
-    { "id": "Chat", "label": "Chat", "description": "In room chat with other players using SpankyUI." },
-    { "id": "Console", "label": "Console", "description": "Console that lets you do far beyond what the ui can do" },
-    { "id": "Spawn", "label": "Spawn", "description": "Set you spwan location when you start up the game and travel to the maps you want" },
-    { "id": "Plugins", "label": "Plugins", "description": "List of mods in your plugins folder" }
-    { "id": "Dev Guide", "label": "Dev Guide", "description": "For developers for making custom pages on SpankyVRC for you to use" }
+    { "id": "Spawn",          "label": "Spawn",          "kind": "builtin", "description": "Set your spawn location when you start up the game and travel to the maps you want." },
+    { "id": "Chat",           "label": "Chat",           "kind": "builtin", "description": "In room chat with other players using SpankyUI." },
+    { "id": "Console",        "label": "Console",        "kind": "builtin", "description": "Console that lets you do far beyond what the ui can do." },
+    { "id": "Double Hats",    "label": "Double Hats",    "kind": "builtin", "description": "New 2026 double hats method." },
+    { "id": "Page Downloader","label": "Page Downloader","kind": "builtin", "description": "This store - install pages made by Blaze and Spanky." },
+    { "id": "Steam",          "label": "Steam",          "kind": "builtin", "description": "Steam friends list, profiles, and rich presence." },
+    { "id": "Room History",   "label": "Room History",   "kind": "builtin", "description": "Track rooms you have joined." },
+    { "id": "Plugins",        "label": "Plugins",        "kind": "builtin", "description": "List of mods in your plugins folder." },
+    { "id": "Dev Guide",      "label": "Dev Guide",      "kind": "builtin", "description": "For developers making custom pages on SpankyVRC." },
+
+    { "id": "Quick Links",    "label": "Quick Links",    "kind": "external",
+      "description": "Handy links for Gorilla Tag and SpankyVRC.",
+      "url": "https://raw.githubusercontent.com/Spankypluh/SpankyVRC/refs/heads/main/pages/Quick%20Links.json" },
+
+    { "id": "Example Page",   "label": "Example Page",   "kind": "external",
+      "description": "Every row type a downloaded page can use.",
+      "url": "https://raw.githubusercontent.com/Spankypluh/SpankyVRC/refs/heads/main/pages/Example%20Page.json" }
   ]
 }

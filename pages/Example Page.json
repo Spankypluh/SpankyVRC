@@ -1,0 +1,37 @@
+{
+  "label": "Example Page",
+  "description": "Every row type a downloaded page can use.",
+  "rows": [
+    { "type": "section", "text": "Headings and text" },
+
+    { "type": "note", "text": "A small muted note. Good for hints and warnings.", "color": "#9AA5B1" },
+
+    { "type": "description", "text": "Label with detail", "description": "A main line with a smaller line underneath.", "fontSize": 20 },
+
+    { "type": "text", "text": "A plain line of text.", "fontSize": 24 },
+
+    { "type": "skip" },
+    { "type": "section", "text": "Controls" },
+
+    { "type": "toggle", "text": "Remember my choice", "key": "remember",
+      "description": "Toggles are stored per page, so they survive a restart.", "gradient": "green" },
+
+    { "type": "types", "text": "Quality", "key": "quality",
+      "values": ["Low", "Medium", "High", "Ultra"] },
+
+    { "type": "button", "text": "Do something", "gradient": "yellow",
+      "action": { "kind": "page", "value": "Settings" } },
+
+    { "type": "skip" },
+    { "type": "section", "text": "Navigation" },
+
+    { "type": "button", "text": "Jump to the store", "gradient": "cyan",
+      "action": { "kind": "page", "value": "Page Downloader" } },
+
+    { "type": "button", "text": "Back to home", "gradient": "gray",
+      "action": { "kind": "home", "value": "home" } },
+
+    { "type": "skip" },
+    { "type": "note", "text": "Rows are read top to bottom, maximum 200 per page.", "color": "#9AA5B1" }
+  ]
+}
