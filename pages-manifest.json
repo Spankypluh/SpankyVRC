@@ -9,5 +9,6 @@
     { "id": "Room History",   "label": "Room History",   "kind": "builtin", "description": "Track rooms you have joined." },
     { "id": "Plugins",        "label": "Plugins",        "kind": "builtin", "description": "List of mods in your plugins folder." },
     { "id": "Dev Guide",      "label": "Dev Guide",      "kind": "builtin", "description": "For developers making custom pages on SpankyVRC." },
-
+    }
 }
+    
